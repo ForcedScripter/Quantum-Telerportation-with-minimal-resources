@@ -1,1 +1,1 @@
-Quantum Teleportation with qiskit framework!
+Quantum Teleportation with qiskit framework
